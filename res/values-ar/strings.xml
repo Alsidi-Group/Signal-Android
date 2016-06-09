@@ -151,23 +151,23 @@
   <string name="ConversationFragment_sender_s_transport_s_sent_s_received_s">الراسل: %1$s\nنقل: %2$s\nمرسل: %3$s\nوارد: %4$s</string>
   <plurals name="ConversationFragment_delete_selected_messages">
     <item quantity="zero">حذف المختار؟</item>
-    <item quantity="one">حذف الرسالة المختارة؟</item>
-    <item quantity="two">حذف الرسائل المختارة؟</item>
-    <item quantity="few">حذف الرسائل المختارة؟</item>
-    <item quantity="many">حذف الرسائل المختارة؟</item>
-    <item quantity="other">حذف الرسائل المختارة؟</item>
+    <item quantity="one">حذف الرسائل المحددة؟</item>
+    <item quantity="two">حذف الرسائل المحددة؟</item>
+    <item quantity="few">حذف الرسائل المحددة؟</item>
+    <item quantity="many">حذف الرسائل المحددة؟</item>
+    <item quantity="other">حذف الرسائل المحددة؟</item>
   </plurals>
   <plurals name="ConversationFragment_this_will_permanently_delete_all_n_selected_messages">
     <item quantity="zero">سوف يتم حذف %1$d رسالة مختارة نهائيا.</item>
     <item quantity="one">هذه العملية سوف تؤدي إلى حذف نهائي للرسالة الختارة.</item>
-    <item quantity="two">سوف يتم حذف %1$d رسالة مختارة نهائيا.</item>
-    <item quantity="few">سوف يتم حذف %1$d رسالة مختارة نهائيا.</item>
-    <item quantity="many">سوف يتم حذف %1$d رسالة مختارة نهائيا.</item>
-    <item quantity="other">سوف يتم حذف %1$d رسالة مختارة نهائيا.</item>
+    <item quantity="two">سوف يتم حذف %1$d رسالة المحددة نهائيا.</item>
+    <item quantity="few">سوف يتم حذف %1$d رسالة المحددة نهائيا.</item>
+    <item quantity="many">سوف يتم حذف %1$d رسالة المحددة نهائيا.</item>
+    <item quantity="other">سوف يتم حذف %1$d رسالة المحددة نهائيا.</item>
   </plurals>
   <string name="ConversationFragment_save_to_sd_card">أحفظ في الذاكرة؟</string>
   <string name="ConversationFragment_unable_to_write_to_sd_card_exclamation">تعذر الإضافة إلى الذاكرة!</string>
-  <string name="ConversationFragment_pending">معلق...</string>
+  <string name="ConversationFragment_pending">متوقف...</string>
   <string name="ConversationFragment_push">بيانات (سيجنال)</string>
   <string name="ConversationFragment_mms">رسالة وسائط متعددة</string>
   <string name="ConversationFragment_sms">رسالة نصية</string>
@@ -238,11 +238,11 @@
   <!--ShareActivity-->
   <string name="ShareActivity_share_with">شارك مع</string>
   <!--ExperienceUpgradeActivity-->
-  <string name="ExperienceUpgradeActivity_welcome_to_signal_dgaf">أهلا في سيجنال.</string>
+  <string name="ExperienceUpgradeActivity_welcome_to_signal_dgaf">Signal أهلا بك في.</string>
   <string name="ExperienceUpgradeActivity_textsecure_is_now_called_signal">تم دمج تيسكت سيكيور وريدفون في تطبيق واحد للتواصل الخاص في كل المواقف: سيجنال</string>
-  <string name="ExperienceUpgradeActivity_welcome_to_signal_excited">أهلا في سيجنال!</string>
-  <string name="ExperienceUpgradeActivity_textsecure_is_now_signal">تيكست سيكيور أصبح سيجنال الآن.</string>
-  <string name="ExperienceUpgradeActivity_textsecure_is_now_signal_long">تم دمج تيكست سيكيور وريدفون في تطبيق واحد الآن: سيجنال</string>
+  <string name="ExperienceUpgradeActivity_welcome_to_signal_excited">Signal أهلا بك في</string>
+  <string name="ExperienceUpgradeActivity_textsecure_is_now_signal">Signal تأمين النص أصبح الأن متاح في.</string>
+  <string name="ExperienceUpgradeActivity_textsecure_is_now_signal_long">Signal : تم دمج تأمين النصي وتأمين المكالمات الصوتية في تطبيق واحد</string>
   <!--ExportFragment-->
   <string name="ExportFragment_export">تصدير</string>
   <string name="ExportFragment_export_plaintext_to_storage">تصدير نسخة احتياطية غير مشفرة إلى الذاكرة؟</string>
